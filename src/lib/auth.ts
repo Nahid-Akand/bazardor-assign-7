@@ -19,10 +19,11 @@ export const auth = betterAuth({
 
   baseURL: process.env.BETTER_AUTH_URL,
 
-  trustedOrigins: [
-    "https://bazardor-assign-7-pqeta6fxs-nahid13.vercel.app",
-    "http://localhost:3000",
-  ],
+ trustedOrigins: [
+  "https://bazardor-assign-7.vercel.app",
+  "https://bazardor-assign-7-pqeta6fxs-nahid13.vercel.app",
+  "http://localhost:3000",
+],
 
   database: pool,
 
