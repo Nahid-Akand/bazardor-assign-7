@@ -25,7 +25,6 @@ export default function ProductSearch({
       .filter((product) =>
         [
           product.nameBn,
-          product.name,
           product.categoryNameBn,
           product.category,
         ]
