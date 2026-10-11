@@ -58,7 +58,7 @@
    npm run dev
    ```
 
-6. Open [http://localhost:3000](http://localhost:3000) in your browser.
+6. Open [https://bazardor-assign-7.vercel.app/] in your browser.
 
 ## 📁 Project Purpose
 
